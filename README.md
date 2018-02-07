@@ -1,1 +1,2 @@
-# hello-world-dwa15
+# Practice repository for DWA
+<https://dwa15.com>
